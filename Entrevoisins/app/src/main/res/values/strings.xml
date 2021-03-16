@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <string name="user_name">User Name</string>
+    <string name="about">About myself</string>
+    <string name="did_not">did not wish share this information</string>
+
+</resources>
