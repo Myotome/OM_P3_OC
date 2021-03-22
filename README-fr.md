@@ -1,5 +1,5 @@
 # EntreVoisin
-===========
+-------------
 
 Application qui permet à des personnes d’un même quartier de se rendre des petits services : 
 garde d’animaux, petit bricolage, troc d’objets, cours particuliers, 
@@ -23,7 +23,7 @@ de nombreuses options s’offrent aux utilisateurs !
 ## Licence
 ----------
 
-Société _EntreVoisins_ pour **__OpenClassrooms__**
+Société _EntreVoisins_ pour **_OpenClassrooms_**
 
 ## Source
 ---------
@@ -35,7 +35,10 @@ https://github.com/Myotome/OM_P3_OC.git
 
 ### Import
 
-Importation du projet dans Android Studio
+Pour importer le projet dans Android Studio, vous pouvez le récuperer via le lien Git ci-dessus.
+Vous pouvez ensuite cloner le projet, ou le télécharger au format zip.
+Ensuite ouvrer le via Android studio -> File -> Open...
+Attendez la fin du Build avant de travailler sur l'application.
 Lancement possible sur émulateur ou appareil mobile avec mode développeur 
 Cliquer sur le boutton "Run"
 
