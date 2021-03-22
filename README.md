@@ -1,5 +1,5 @@
 # EntreVoisin
-===========
+------------
 
 Application that allows people from the same neighborhood to provide small services:
 animal care, small crafts, bartering of objects, private lessons,
@@ -35,7 +35,10 @@ https://github.com/Myotome/OM_P3_OC.git
 
 ### Import
 
-Importing the project into Android Studio
+To import the project into Android Studio, you can recover it on the Git link above.
+You can clone the project, or download it to ZIP format.
+Then opened it into Android Studio -> File -> Open ...
+Wait for the end of the build before working on the application. 
 Can be launched on emulator or mobile device with developer mode
 Click on "Run" button
 
